@@ -1,4 +1,4 @@
-(defproject dev.gethop/database.sql.hikaricp "0.4.1-SNAPSHOT"
+(defproject dev.gethop/database.sql.hikaricp "0.4.1"
   :description "Integrant methods for a SQL database connection pool"
   :url "https://github.com/gethop-dev/database.sql.hikaricp"
   :license {:name "Eclipse Public License"
