@@ -1,10 +1,16 @@
-# Duct database.sql.hikaricp
+[![ci-cd](https://github.com/gethop-dev/database.sql.hikaricp/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/gethop-dev/database.sql.hikaricp/actions/workflows/ci-cd.yml)
+[![Clojars Project](https://img.shields.io/clojars/v/dev.gethop/database.sql.hikaricp.svg)](https://clojars.org/dev.gethop/database.sql.hikaricp)
 
-[![Build Status](https://travis-ci.org/duct-framework/database.sql.hikaricp.svg?branch=master)](https://travis-ci.org/duct-framework/database.sql.hikaricp)
+# dev.gethop/database.sql.hikaricp
+
+Temporal fork while [issue #10][] in the [original repository][] is fixed.
 
 [Integrant][] methods for connecting to a SQL database from the
 [Duct][] framework using [HikariCP][], an efficient connection pool.
 
+
+[issue #10]: https://github.com/duct-framework/database.sql.hikaricp/issues/10
+[original repository]: https://github.com/duct-framework/database.sql.hikaricp
 [integrant]: https://github.com/weavejester/integrant
 [duct]:      https://github.com/duct-framework/duct
 [hikaricp]:  https://github.com/brettwooldridge/HikariCP

@@ -1,6 +1,6 @@
-(defproject duct/database.sql.hikaricp "0.4.0"
+(defproject dev.gethop/database.sql.hikaricp "0.4.1-SNAPSHOT"
   :description "Integrant methods for a SQL database connection pool"
-  :url "https://github.com/duct-framework/database.sql.hikaricp"
+  :url "https://github.com/gethop-dev/database.sql.hikaricp"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.10.0"]
